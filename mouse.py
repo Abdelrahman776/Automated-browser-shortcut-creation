@@ -1,4 +1,4 @@
-import pyautogui 
+import pyautogui  
 
 pyautogui.click(1890,70,duration=0.01) # moving to the drop down menu on top right of brave browser then clicking
 # pyautogui.click()

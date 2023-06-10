@@ -16,7 +16,7 @@ This repository contains a Python script that utilizes the pyautogui library to 
 
 2. pyautogui library
 
-### Installation:
+### Installation :
 
 1. Clone this repository to your local machine using the following command:
 
